@@ -22,6 +22,13 @@ A machine learning project to predict tweet sentiments (Positive, Negative, Neut
 
 ## Usage
 - Enter a tweet-like sentence in the Streamlit app.
+- Twitter-Sentiment-Analysis/
+├── backend/
+│   └── twittersentimentanalysis.py 
+├── frontend/
+│   └── appscript.py                 
+├── README.md
+└── requirements.txt
 - Click "Predict Sentiment" to see the sentiment (Positive, Negative, Neutral) and confidence scores.
 
 ## Future Improvements
